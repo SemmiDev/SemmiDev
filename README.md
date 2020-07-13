@@ -25,7 +25,7 @@
 <br />
 <br />
 
-Full-Stack | Software engineer :robot:. (In progress)
+<Born to Code/>!
+Backend Engineer :robot:. (In progress)
 
 👨‍💻 19 Years old Developer  
-🚧 **Current Project:** [Price Tracker](https://github.com/SemmiDev)
