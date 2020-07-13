@@ -25,7 +25,6 @@
 <br />
 <br />
 
-<Born to Code/>!
 Backend Engineer :robot:. (In progress)
 
 👨‍💻 19 Years old Developer  
