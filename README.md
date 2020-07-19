@@ -1,4 +1,5 @@
 ### Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm [Sam!](https://github.com/SemmiDev) 
+![Profile views](https://gpvc.arturio.dev/SemmiDev)
 
 <a href="https://www.linkedin.com/in/sam-48a11a196/">
   <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -13,6 +14,5 @@
 <br />
 <br />
 
-🌱 Backend Engineer 
-👨‍💻 19 Years old Developer  
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=SemmiDev&hide=["issues"]&show_icons=true)
+- Backend Enthusiast [Java]
+- 19 Yo Developer
