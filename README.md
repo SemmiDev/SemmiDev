@@ -1,12 +1,10 @@
 ### Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm [Sam!](https://github.com/SemmiDev) 
 ![Profile views](https://gpvc.arturio.dev/SemmiDev)
 
-
-<br />
-<br />
-
 - Backend Enthusiast [Java]
 - 19 YO Developer
+
+<br />
 
 <a href="https://www.instagram.com/_sammidev">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
