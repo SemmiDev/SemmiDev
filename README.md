@@ -13,4 +13,4 @@
 <br />
 
 - Backend Enthusiast [Java]
-- 19 yo Developer 🐱‍
+- 19 y.o. Developer 🐱‍
