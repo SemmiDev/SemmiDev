@@ -1,16 +1,15 @@
-### Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm [Sam!](https://github.com/SemmiDev) 
+  <img src="https://media3.giphy.com/media/MEFVcuRIoVETUMYZEe/giphy.gif" width="200px">
+  <br>
+
+### Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm [Sam!](https://github.com/SemmiDev) 
 ![Profile views](https://gpvc.arturio.dev/SemmiDev)
 
-<a href="https://www.instagram.com/_sammidev">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
-<a href="https://t.me/SammiDev">
-  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-
-<br />
 <br />
 
 - Backend Enthusiast [Java]
 - 19 y.o. Developer 🐱‍
+
+### Contacts
+- Email: <a href="mailto:sammidev4@gmail.com">sammidev4</a>
+- Instagram: <a href="https://www.instagram.com/_sammidev/">_sammidev</a>
+- Telegram: <a href="https://t.me/arifin_izz">SammiDev</a>
