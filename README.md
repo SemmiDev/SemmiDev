@@ -11,4 +11,4 @@
 - 19 y.o. Developer 🐱‍
 -  Email: <a href="mailto:sammidev4@gmail.com">sammidev4</a>
 -  Instagram: <a href="https://www.instagram.com/_sammidev/">_sammidev</a>
--  Telegram: <a href="https://t.me/arifin_izz">SammiDev</a>
+-  Telegram: <a href="https://t.me/Sammidev">SammiDev</a>
