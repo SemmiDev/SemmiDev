@@ -1,15 +1,11 @@
 <h1 align="center">Howdy 👋🏻, I'm Sammi Aldhi Yanto</h1>
 <h3 align="center">JLove and Kotlin Enthusiast</h3>
 
+<a href="https://instagram.com/_sammidev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_sammidev" height="30" width="40" /></a>
+<br/><br/>
 ![Profile views](https://gpvc.arturio.dev/SemmiDev) 
 
 <h4 align="left">🤷🏻‍♂️ Ask me anything about Java, Kotlin, and Spring Framework</h4>
-
-<p align="left">
-<h3 align="left">Connect with me</h3>
-</p>
-
-<a href="https://instagram.com/_sammidev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_sammidev" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left"> 
