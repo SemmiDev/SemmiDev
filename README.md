@@ -5,7 +5,7 @@
 <br/><br/>
 ![Profile views](https://gpvc.arturio.dev/SemmiDev) 
 
-<h4 align="left">🤷🏻‍♂️ Ask me anything about Java, Kotlin, and Spring Framework</h4>
+<h4 align="left">🤷🏻‍♂️ Ask me anything about Java, Kotlin, And Golang</h4>
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left"> 
