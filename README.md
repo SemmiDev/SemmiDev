@@ -1,15 +1,6 @@
 <h1 align="center">Howdy 👋🏻, I'm Sammi Aldhi Yanto</h1>
 <h3 align="center">JLove, Kotliner, and Gopher</h3>
 
-
-<h3> 👨 &nbsp;About Me </h3>
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Information System at [Riau University](https://unri.ac.id).
-- 🌱 &nbsp; Learning more about Systems Design.
-- ✍️ &nbsp; Coding is my hobby LoL.
-- 💬 Ask me about **JAVA AND KOTLIN**
-- 📫 How to reach me **sammidev4@gmail.com**
-
 <br/>
 <br/>
 
@@ -37,9 +28,3 @@
 </p>
 
 <br/>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SemmiDev&layout=compact" alt="SemmiDev" /></p>
-
-<br/><br/><br/><br/><br/><br/><br/>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=SemmiDev&show_icons=true" alt="SemmiDev" /></p>
