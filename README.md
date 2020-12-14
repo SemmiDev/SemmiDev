@@ -3,8 +3,8 @@
 
 <br/>
 <br/>
-![Profile views](https://gpvc.arturio.dev/SemmiDev) 
 
+![Profile views](https://gpvc.arturio.dev/SemmiDev) 
 
 <h3> Connect with Me </h3>
 <p align="center">
