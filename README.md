@@ -2,7 +2,6 @@
 <h3 align="center">JLove, Kotliner, and Gopher</h3>
 
 <br/>
-<br/>
 
 ![Profile views](https://gpvc.arturio.dev/SemmiDev) 
 
