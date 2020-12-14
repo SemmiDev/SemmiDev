@@ -3,9 +3,6 @@
 
 <br/>
 <br/>
-
-<a href="https://instagram.com/_sammidev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_sammidev" height="30" width="40" /></a>
-<br/><br/>
 ![Profile views](https://gpvc.arturio.dev/SemmiDev) 
 
 
