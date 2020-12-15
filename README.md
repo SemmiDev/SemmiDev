@@ -5,7 +5,6 @@
 
 ![Profile views](https://gpvc.arturio.dev/SemmiDev) 
 
-<h3> Connect with Me </h3>
 <p align="center">
 	<a href="https://id.linkedin.com/in/sammi-aldhi-yanto-48a11a196">
 		<img src="https://img.shields.io/badge/-Sammi-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
