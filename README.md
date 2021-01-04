@@ -1,5 +1,4 @@
 <h1 align="center">Howdy 👋🏻, I'm Sammi Aldhi Yanto</h1>
-<h3 align="center">JLove, Kotliner, and Gopher</h3>
 
 <br/>
 
