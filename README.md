@@ -9,15 +9,15 @@
 ```kotlin
 val SΣM = Developer {
     About {
-        Name = "Sammi Aldhi Yanto"
-        Institution = Universitas Riau
-        Role = Student
+        name = "Sammi Aldhi Yanto"
+        institution = Universitas Riau
+        role = Student
     }
     Tech("Kotlin", "Go", "Java")
     Links {
-        Whatsapp = "+6282387325971"
-    	Gmail = "sammidev4@gmail.com"
-	Instagram = "@_sammidev" 
+        whatsapp = "+6282387325971"
+    	gmail = "sammidev4@gmail.com"
+	instagram = "@_sammidev" 
     }
 }
 ```
