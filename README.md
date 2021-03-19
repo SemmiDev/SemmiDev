@@ -7,16 +7,16 @@
 **About me**
 
 ```kotlin
-val SΣM = developer {
-    about {
-        name = "Sammi Aldhi Yanto"
-        institution = Universitas Riau
-        role = Student
+val SΣM = Developer {
+    About {
+        Name = "Sammi Aldhi Yanto"
+        Institution = Universitas Riau
+        Role = Student
     }
-    tech("Kotlin", "Go", "Java")
-    links {
-        whatsapp = "+6282387325971"
-    	gmail = "sammidev4@gmail.com"
+    Tech("Kotlin", "Go", "Java")
+    Links {
+        Whatsapp = "+6282387325971"
+    	Gmail = "sammidev4@gmail.com"
 	Instagram = "@_sammidev" 
     }
 }
