@@ -2,9 +2,10 @@
 
 ![Profile views](https://gpvc.arturio.dev/SemmiDev) 
 
-</br>
 
-**About me**
+```sql
+About me
+```
 
 ```kotlin
 val SΣM = Developer {
