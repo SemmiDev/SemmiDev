@@ -1,4 +1,4 @@
-# SΣM
+# SΣM - SI UR`20
 
 ![Profile views](https://gpvc.arturio.dev/SemmiDev) 
 
