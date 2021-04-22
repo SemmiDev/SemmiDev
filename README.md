@@ -2,7 +2,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/SemmiDev) 
 
-- `I learn`
+`I learn`
 
 ### Connect with me
 
