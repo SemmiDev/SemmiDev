@@ -1,15 +1,8 @@
-# SΣM - SI UR`20
+# SΣM
 
 ![Profile views](https://gpvc.arturio.dev/SemmiDev) 
 
-
-
-**`bottom_line`**:
-- `I do copy & paste`
-- `I make mistakes`
 - `I learn`
-- `I constantly move on`
-- `I` ***goto*** `bottom_line`
 
 ### Connect with me
 
