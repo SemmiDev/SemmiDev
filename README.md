@@ -3,8 +3,6 @@
 ![Profile views](https://gpvc.arturio.dev/SemmiDev) 
 
 
-`Connect with me`
-
 <div>
     &nbsp;&nbsp; <a href="https://www.youtube.com/channel/UCf9eTh_WEnl2NV2ii-F2OZQ" target="_blank">
         <img src="https://img.shields.io/badge/youtube-%2324292e.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" style="margin-bottom: 5px;"/>
