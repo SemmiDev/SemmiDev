@@ -2,9 +2,8 @@
 
 ![Profile views](https://gpvc.arturio.dev/SemmiDev) 
 
-`I learn`
 
-### Connect with me
+`Connect with me`
 
 <div>
     &nbsp;&nbsp; <a href="https://www.youtube.com/channel/UCf9eTh_WEnl2NV2ii-F2OZQ" target="_blank">
