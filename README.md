@@ -1,5 +1,3 @@
-# SΣM
-
 ![Profile views](https://gpvc.arturio.dev/SemmiDev) 
 
 
