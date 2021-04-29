@@ -15,4 +15,4 @@
 
 -------
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=SemmiDev&margin-w=15&column=7&title=MultiLanguage,Commit,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=SemmiDev&margin-w=15&column=7&title=MultiLanguage,Commit,Repositories,Followers)](https://github.com/ryo-ma/github-profile-trophy)
