@@ -1,21 +1,46 @@
 ![Profile views](https://gpvc.arturio.dev/SemmiDev) 
 
 
-## Nice to meet you! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Glad to see you here!
 
-I am Sammi Aldhi Yanto, you can call me Sam, currently pursuing my bachelor's degree majoring in computer science from [Universitas Riau](https://unri.ac.id/en/). I am a tech enthusiast, especially in Backend web Development and Cloud Computing. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Sammi Aldhi Yanto, you can call me Sam, currently pursuing my bachelor's degree majoring in computer science from Universitas Riau. I am a tech enthusiast, especially in Backend Web Development and Cloud Computing. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Instagram Badge](https://img.shields.io/badge/-sammidev-purple?logo=instagram&logoColor=white&link=https://instagram.com/_sammidev/)](https://instagram.com/_sammidev)
-[![Gmail Badge](https://img.shields.io/badge/-sammidev4@gmail.com-c14438?logo=Gmail&logoColor=white&link=mailto:sammidev4@gmail.com)](mailto:sammidev4@gmail.com)
+How to reach me: `echo "c2FtbWlkZXY0QGdtYWlsLmNvbQ==" | base64 --decode`
 
-### :trophy: Trophies
+## Languages and Tools
 
--------
+<div align="center">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="25" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="25" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="25" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="25" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="25" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="25" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="25" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="25" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="25" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="25" />
+</div>
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=SemmiDev&margin-w=15&column=7&title=MultiLanguage,Commit,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
+## GitHub Stats
 
-### :scroll: Top Languages
+<table><tr><td valign="top" width="50%">
 
--------
+<img src="https://github-readme-stats.vercel.app/api?username=SemmiDev&show_icons=true&count_private=true&hide_border=true&theme=dark&include_all_commits=true" align="left" style="width: 100%" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?langs_count=10&username=SemmiDev&hide=tex,css,scss,html,jupyter%20notebook&layout=compact)
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SemmiDev&hide_border=true&layout=compact&theme=dark&hide=css,scss,html,makefile&exclude_repo=website,SemmiDev.github.io" align="left" style="width: 100%" />
+
+</td></tr></table>
