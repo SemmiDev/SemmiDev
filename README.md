@@ -1,11 +1,8 @@
-![Profile views](https://gpvc.arturio.dev/SemmiDev) 
-
-
-## Glad to see you here!
+# Hello, everyone! 👋
 
 I am Sammi Aldhi Yanto, you can call me Sam, currently pursuing my bachelor's degree majoring in computer science from Universitas Riau. I am a golang lover, tech enthusiast, especially in Backend Web Development, Cloud Computing, and Distributed System. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-How to reach me: `echo "c2FtbWlkZXY0QGdtYWlsLmNvbQ==" | base64 --decode`
+reach me: `sammidev4@gmail.com`
 
 ## Languages and Tools
 
@@ -34,4 +31,4 @@ How to reach me: `echo "c2FtbWlkZXY0QGdtYWlsLmNvbQ==" | base64 --decode`
 </div>
 
 ## Statistics
-<a href="https://github.com/SemmiDev"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SemmiDev&theme=default&hide=javascript,html,css,vue,makefile,shell,sass" /></a>&nbsp;<a href="https://github.com/SemmiDev"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SemmiDev&show_icons=true&theme=default&line_height=25" alt="SemmiDev's github stats" /></a>
+<a href="https://github.com/SemmiDev"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SemmiDev&show_icons=true&theme=dark&line_height=25" alt="SemmiDev's github stats" /></a>
