@@ -3,7 +3,7 @@
 
 ## Glad to see you here!
 
-I am Sammi Aldhi Yanto, you can call me Sam, currently pursuing my bachelor's degree majoring in computer science from Universitas Riau. I am a tech enthusiast, especially in Backend Web Development and Cloud Computing. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Sammi Aldhi Yanto, you can call me Sam, currently pursuing my bachelor's degree majoring in computer science from Universitas Riau. I am a golang lover, tech enthusiast, especially in Backend Web Development, Cloud Computing, and Distributed System. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 How to reach me: `echo "c2FtbWlkZXY0QGdtYWlsLmNvbQ==" | base64 --decode`
 
@@ -33,14 +33,5 @@ How to reach me: `echo "c2FtbWlkZXY0QGdtYWlsLmNvbQ==" | base64 --decode`
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="25" />
 </div>
 
-## GitHub Stats
-
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SemmiDev&show_icons=true&count_private=true&hide_border=true&theme=dark&include_all_commits=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SemmiDev&hide_border=true&layout=compact&theme=dark&hide=css,scss,html,makefile&exclude_repo=website,SemmiDev.github.io" align="left" style="width: 100%" />
-
-</td></tr></table>
+## Statistics
+<a href="https://github.com/SemmiDev"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SemmiDev&theme=default&hide=javascript,html,css,vue,makefile,shell,sass" /></a>&nbsp;<a href="https://github.com/SemmiDev"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SemmiDev&show_icons=true&theme=default&line_height=25" alt="SemmiDev's github stats" /></a>
