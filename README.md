@@ -31,4 +31,9 @@ reach me: `sammidev4@gmail.com`
 </div>
 
 ## Statistics
-<a href="https://github.com/SemmiDev"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SemmiDev&show_icons=true&theme=dark&line_height=25" alt="SemmiDev's github stats" /></a>
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=SemmiDev&show_icons=true&theme=nightowl&locale=en" alt="semmiDev" />
+</p>
+
+
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SemmiDev&row=3&column=4&margin-w=15&margin-h=15&theme=dracula&no-bg=true&no-frame=true" alt="SemmiDev" /></a></p>
