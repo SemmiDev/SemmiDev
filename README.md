@@ -1,6 +1,6 @@
 # Hello, everyone! 👋
 
-I am Sammi Aldhi Yanto, you can call me Sam, currently pursuing my bachelor's degree majoring in computer science from Universitas Riau. I am a golang lover, tech enthusiast, especially in Backend Web Development, Cloud Computing, and Distributed System. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Sammi Aldhi Yanto, you can call me Sam, currently pursuing my bachelor's degree majoring in computer science from Universitas Riau. I am a golang lover, tech enthusiast, especially in Backend Web Development, Cloud Computing, and Distributed System. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here.
 
 reach me: `sammidev4@gmail.com`
 
