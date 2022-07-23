@@ -1,7 +1,6 @@
 ## 💬 Introduction
 I'm Sammi Aldhi Yanto, currently on a learning journey on Universitas Riau as an CS undergraduate of year 2020. I love computer science and software engineering topics. Get in touch with me!
 
-
 ## 🔗 Link
 - [WhatsApp](https://wa.link/2gi8t7)
 - [YouTube](https://www.youtube.com/channel/UCf9eTh_WEnl2NV2ii-F2OZQ)
