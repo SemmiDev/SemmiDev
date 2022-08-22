@@ -1,3 +1,5 @@
+![](https://github.com/SemmiDev/SemmiDev/blob/master/icons/header_1.png)
+
 ## 💬 Introduction
 I'm Sammi Aldhi Yanto, currently on a learning journey on Universitas Riau as an CS undergraduate of year 2020. I love computer science and software engineering topics. Get in touch with me!
 
