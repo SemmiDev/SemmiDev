@@ -1,16 +1,15 @@
-![](https://github.com/SemmiDev/SemmiDev/blob/master/icons/header_1.png)
-
-## 💬 Introduction
-I'm Sammi Aldhi Yanto, currently on a learning journey on Universitas Riau as an CS undergraduate of year 2020. I love computer science and software engineering topics. Get in touch with me!
+- 👋 Hi, I’m Sammi Aldhi Yanto
+- 👀 I’m interested in Fullstack Web Development, Machine Learning, Deep Learning, and System Design 
+- 🌱 I’m currently learning NodeJS & Deep Learning
+- 📫 How to reach me
+  - [WhatsApp](https://wa.link/2gi8t7)
+  - [LinkedIn](https://id.linkedin.com/in/sammi-aldhi-yanto-48a11a196)
+  - [Instagram](https://www.instagram.com/sammidev_/)
+  - [Telegram](https://t.me/SammiDev) 
 
 ## 🔗 Link
-- [WhatsApp](https://wa.link/2gi8t7)
-- [YouTube](https://www.youtube.com/channel/UCf9eTh_WEnl2NV2ii-F2OZQ)
-- [Telegram](https://t.me/SammiDev)
+- [YouTube 1](https://www.youtube.com/channel/UCf9eTh_WEnl2NV2ii-F2OZQ)
+- [YouTube 2](https://www.youtube.com/@keep.coding)
 - [Twitter](https://twitter.com/sammidev_?s=09)
 - [Web](https://sammidev.codes)
 - [GitHub](https://github.com/SemmiDev)
-- [LinkedIn](https://id.linkedin.com/in/sammi-aldhi-yanto-48a11a196)
-- [Instagram](https://www.instagram.com/sammidev_/)
-
-![Metrics](https://metrics.lecoq.io/SemmiDev?template=classic&isocalendar=1&languages=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FJakarta)
