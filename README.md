@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sammi Aldhi Yanto
 - 👀 I’m interested in Fullstack Web Development, Machine Learning, Deep Learning, and System Design 
-- 🌱 I’m currently learning NodeJS & Deep Learning
+- 🌱 I’m currently learning NodeJS, Svelte & Deep Learning
 - 📫 How to reach me
   - [WhatsApp](https://wa.link/2gi8t7)
   - [LinkedIn](https://id.linkedin.com/in/sammi-aldhi-yanto-48a11a196)
