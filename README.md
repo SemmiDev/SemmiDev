@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sammi Aldhi Yanto
-- 👀 I’m interested in Fullstack Web Development, Machine Learning, Deep Learning, and System Design 
+- 👀 I’m interested in Go, Rust, Kubernetes, Distributed System, Deep Learning, and System Design 
 - 🌱 I’m currently learning NodeJS, Svelte & Deep Learning
 - 📫 How to reach me
   - [WhatsApp](https://wa.link/2gi8t7)
