@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Sammi Aldhi Yanto
-- 👀 I’m interested in Go, Rust, Kubernetes, Distributed System, and System Design
+- 👀 I’m interested in Go, Kubernetes, Distributed System, and System Design
