@@ -1,32 +1,18 @@
-<div align="center">
-  
+## Overview
+
 ![GitHub Metrics](./github-metrics.svg)
 
-# 👋 Hey, I'm Sammi Aldhi Yanto
-
-**Software Engineer · Go Enthusiast · Distributed Systems & Observability Nerd**
-
-*Jakarta, Indonesia · UTC+07:00*
-
-[![GitHub followers](https://img.shields.io/github/followers/SemmiDev?style=flat-square&color=0891b2&labelColor=1c1917)](https://github.com/SemmiDev?tab=followers)
-[![Stars](https://img.shields.io/badge/Stars%20Earned-638-yellow?style=flat-square)](https://github.com/SemmiDev?tab=stars)
-[![Repos](https://img.shields.io/badge/Repositories-576-blue?style=flat-square)](https://github.com/SemmiDev?tab=repositories)
-
-</div>
-
----
-
-## 🧠 About Me
+## About Me
 
 I'm a **Backend Engineer** with 3+ years of experience building production-grade systems — from microservices and RESTful APIs to real-time messaging and AI-powered services. Currently working at **PT Permodalan Nasional Madani**
 
-- 🏢 **Currently:** Back End Developer @ PT Permodalan Nasional Madani (via PT Lawencon Internasional)
-- 🔭 **Deeply into:** Go, Kubernetes, Distributed Systems, Observability, System Design
-- 📝 Blog & notes: [journal.sammi.my.id](http://journal.sammi.my.id)
+- **Currently:** Back End Developer @ PT Permodalan Nasional Madani (via PT Lawencon Internasional)
+- **Deeply into:** Go, Kubernetes, Distributed Systems, Observability, System Design
+- Blog & notes: [journal.sammi.my.id](http://journal.sammi.my.id)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -77,14 +63,10 @@ I'm a **Backend Engineer** with 3+ years of experience building production-grade
 
 ---
 
-## 🌐 Find Me
-
-<div align="center">
+## Find Me
 
 [![Email](https://img.shields.io/badge/Email-sammidev4@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sammidev4@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sammi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sammi)
 [![Journal](https://img.shields.io/badge/Journal-sammi.my.id-0891b2?style=flat-square&logo=bookstack&logoColor=white)](http://journal.sammi.my.id)
 [![Instagram](https://img.shields.io/badge/Instagram-@sammidev__-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/sammidev_/)
 [![X](https://img.shields.io/badge/X-@sammiiidev-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/sammiiidev)
-
-</div>
