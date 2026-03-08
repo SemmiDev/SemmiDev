@@ -1,4 +1,6 @@
 <div align="center">
+  
+![GitHub Metrics](./github-metrics.svg)
 
 # 👋 Hey, I'm Sammi Aldhi Yanto
 
