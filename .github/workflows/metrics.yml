@@ -13,6 +13,10 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: SemmiDev
-          template: classic
           base: header, activity, community, repositories
-          config_timezone: Asia/Jakarta
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_isocalendar: yes
+          plugin_stars: yes
+          plugin_followup: yes
