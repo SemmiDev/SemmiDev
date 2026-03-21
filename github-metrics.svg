@@ -1423,7 +1423,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wazero/wazero</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">wazero: the zero dependency WebAssembly runtime for Go developers</div>
@@ -1476,7 +1476,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SemmiDev/wasm-gate</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A WASM plugin execution engine. Upload any WASM binary as a plugin, then invoke it via REST API with JSON payloads. Every plugin runs in an isolated sandbox with memory limits and timeouts — no plugin can crash or block the server.</div>
@@ -1529,7 +1529,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>samber/do</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⚙️  A dependency injection toolkit based on Go 1.18+ Generics.</div>
