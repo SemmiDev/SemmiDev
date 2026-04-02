@@ -1,14 +1,10 @@
-## Overview
-
-![GitHub Metrics](./github-metrics.svg)
-
 ## About Me
 
-I'm a **Backend Engineer** with 3+ years of experience building production-grade systems — from microservices and RESTful APIs to real-time messaging and AI-powered services. Currently working at **PT Permodalan Nasional Madani**
+I'm a **Backend Engineer** with 3+ years of experience building production-grade systems.
 
-- **Currently:** Back End Developer @ PT Permodalan Nasional Madani (via PT Lawencon Internasional)
+- **Currently:** Back End Developer @ PT Permodalan Nasional Madani
 - **Deeply into:** Go, Kubernetes, Distributed Systems, Observability, System Design
-- Blog & notes: [journal.sammi.my.id](http://journal.sammi.my.id)
+- **Blog:** [https://lab-sammi.gitbook.io](https://lab-sammi.gitbook.io/me)
 
 ---
 
