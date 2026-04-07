@@ -63,6 +63,5 @@ I'm a **Backend Engineer** with 3+ years of experience building production-grade
 
 [![Email](https://img.shields.io/badge/Email-sammidev4@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sammidev4@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sammi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sammi)
-[![Journal](https://img.shields.io/badge/Journal-sammi.my.id-0891b2?style=flat-square&logo=bookstack&logoColor=white)](http://journal.sammi.my.id)
 [![Instagram](https://img.shields.io/badge/Instagram-@sammidev__-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/sammidev_/)
 [![X](https://img.shields.io/badge/X-@sammiiidev-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/sammiiidev)
