@@ -10,4 +10,4 @@ I'm a **Backend Engineer** with 3+ years of experience building production-grade
 
 ## Find Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sammi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sammi-aldhi-yanto-48a11a196?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sammi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sammidev?utm_source=share_via&utm_content=profile&utm_medium=member_android)
