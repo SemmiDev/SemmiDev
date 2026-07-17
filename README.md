@@ -1,9 +1,9 @@
 ## About Me
 
-I'm a **Backend Engineer** with 3+ years of experience building production-grade systems.
+**Software Engineer** with 3+ years of experience building production-grade systems.
 
 - **Currently:** Back End Developer @ PT Permodalan Nasional Madani
-- **Deeply into:** Go, Kubernetes, Distributed Systems, Observability, System Design
+- **Deeply into:** Go, Java, Spring Boot, Kubernetes, Observability, System Design
 - **Blog:** [https://lab-sammi.gitbook.io](https://lab-sammi.gitbook.io/me)
 
 ---
